@@ -273,7 +273,7 @@ valgrind --tool=memcheck --leak-check=yes --show-reachable=yes ./myps > /dev/nul
 **CHECKPOINT:** Commit your code with a message stating that you've completed part 3 and push the changes to GitHub. If your code breaks later on or if your computer crashes, you'll be able to quickly recover back to this point in time.
 
 ## Final Project Evaluation
-There are 150 points allocated to this project, the equivilant of five labs. The purpose of this project is to assess your mastery of the learning objectives described above. The following rubric will be used to evaluate project submissions
+There are 120 points allocated to this project, the equivilant of five labs. The purpose of this project is to assess your mastery of the learning objectives described above. The following rubric will be used to evaluate project submissions
 ### Rubric
 - **Coding Style (20 points)** - This score will reflect how closely you follow the [CS253 Style Guide](https://docs.google.com/document/d/1zKIpNfkiPpDHEvbx8XSkZbUEUlpt8rnZjkhCSvM-_3A/edit?usp=sharing) we've been using in the labs this semester.
 - **Code Quality (20 points)** - This score will reflect any compilation warnings, run-time warnings or errors as well as memory issues reported by valgrind.  At program exit, no heap memory should be in use as indicated in the valgrind output above.
